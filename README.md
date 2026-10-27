@@ -11,6 +11,7 @@ A Claude Code plugin marketplace for the free, MIT-licensed bundles by [Seaynic 
 | Plugin | What it does | Repository |
 |---|---|---|
 | `gauge` | Your website's Umami analytics and Resend email, plus skills for weekly reports, copy, SEO and email. | [seayniclabs/gauge](https://github.com/seayniclabs/gauge) |
+| `knowledge` | Search and write your self-hosted Open Notebook from your AI assistant, plus skills for meeting notes, decision records, weekly reviews and source-backed research. By Seaynic Labs. | [seayniclabs/knowledge](https://github.com/seayniclabs/knowledge) |
 | `schematic` | Diagram skills for your AI assistant: editable draw.io files, network maps, codebase maps, and animated or dark architecture diagrams. Skills only, no server. By Seaynic Labs. | [seayniclabs/schematic](https://github.com/seayniclabs/schematic) |
 
 Every entry is pinned to an exact release commit, so a plugin only changes when we publish a new version here. Each bundle also installs without Claude Code: see its repository.
