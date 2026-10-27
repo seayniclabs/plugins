@@ -27,7 +27,7 @@
     },
     {
       "name": "gauge",
-      "version": "0.2.0",
+      "version": "0.2.1",
       "description": "Your website's Umami analytics and Resend email, plus skills for weekly reports, copy, SEO and email.",
       "author": {
         "name": "Seaynic Labs"
@@ -38,7 +38,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/seayniclabs/gauge.git",
-        "sha": "2a4ccf45cf0fbb3b772c822bd1266524a9bd296d"
+        "sha": "dfd57c845319e6a5a78a3fc6c1f1ab2683f5392c"
       }
     },
     {
@@ -59,7 +59,7 @@
     },
     {
       "name": "knowledge",
-      "version": "0.2.0",
+      "version": "0.2.1",
       "description": "Search and write your self-hosted Open Notebook from your AI assistant, plus skills for meeting notes, decision records, weekly reviews and source-backed research. By Seaynic Labs.",
       "author": {
         "name": "Seaynic Labs"
@@ -70,12 +70,12 @@
       "source": {
         "source": "url",
         "url": "https://github.com/seayniclabs/knowledge.git",
-        "sha": "e06aa079209a3122ef7d808efd5e47d3ce17e219"
+        "sha": "5d378493aac09ac81267393595e20ee13fdb6742"
       }
     },
     {
       "name": "lathe",
-      "version": "0.4.0",
+      "version": "0.4.1",
       "description": "Local file and media tools for your AI assistant: images, PDFs, audio and video, OCR, batch runs and metadata removal, with skills for getting started, PDF output, fillable forms and web photo prep. By Seaynic Labs.",
       "author": {
         "name": "Seaynic Labs"
@@ -86,12 +86,12 @@
       "source": {
         "source": "url",
         "url": "https://github.com/seayniclabs/lathe.git",
-        "sha": "e2651780ec533fd7b6de124969b2bac5c71adf6c"
+        "sha": "fd634625f3b9453272fdb420210c5d5a86b02a76"
       }
     },
     {
       "name": "privacyops",
-      "version": "0.2.1",
+      "version": "0.2.2",
       "description": "Track credit-report disputes and draft dispute letters, kept on your own computer, with skills that walk you through each dispute. Not legal advice. By Seaynic Labs.",
       "author": {
         "name": "Seaynic Labs"
@@ -102,7 +102,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/seayniclabs/privacyops.git",
-        "sha": "7aa1d0faa3bd8e8c6880d97817951e90771c541a"
+        "sha": "5614c8bee6a3c1f59f52b5555d19c9ae92fd0b9a"
       }
     },
     {
