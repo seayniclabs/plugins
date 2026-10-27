@@ -10,6 +10,22 @@
   },
   "plugins": [
     {
+      "name": "bench",
+      "version": "0.4.0",
+      "description": "USB hardware discovery for your AI assistant: find maker boards (Arduino, ESP32, Pico), their serial ports and chips, plus skills for bring-up, serial debugging, crash decoding and safe flashing.",
+      "author": {
+        "name": "Seaynic Labs"
+      },
+      "category": "development",
+      "homepage": "https://github.com/seayniclabs/bench",
+      "license": "MIT",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/seayniclabs/bench.git",
+        "sha": "18db1ee25a706170a12055ad69b9b7be31a345d4"
+      }
+    },
+    {
       "name": "gauge",
       "version": "0.2.0",
       "description": "Your website's Umami analytics and Resend email, plus skills for weekly reports, copy, SEO and email.",
