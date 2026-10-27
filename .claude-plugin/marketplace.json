@@ -42,6 +42,22 @@
       }
     },
     {
+      "name": "privacyops",
+      "version": "0.2.0",
+      "description": "Track credit-report disputes and draft dispute letters, kept on your own computer, with skills that walk you through each dispute. Not legal advice. By Seaynic Labs.",
+      "author": {
+        "name": "Seaynic Labs"
+      },
+      "category": "productivity",
+      "homepage": "https://github.com/seayniclabs/privacyops",
+      "license": "MIT",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/seayniclabs/privacyops.git",
+        "sha": "9007e83b36fed06111e591efe3575beb3dd582f1"
+      }
+    },
+    {
       "name": "schematic",
       "version": "0.1.1",
       "description": "Diagram skills for your AI assistant: editable draw.io files, network maps, codebase maps, and animated or dark architecture diagrams. Skills only, no server. By Seaynic Labs.",
