@@ -24,6 +24,22 @@
         "url": "https://github.com/seayniclabs/gauge.git",
         "sha": "2a4ccf45cf0fbb3b772c822bd1266524a9bd296d"
       }
+    },
+    {
+      "name": "schematic",
+      "version": "0.1.1",
+      "description": "Diagram skills for your AI assistant: editable draw.io files, network maps, codebase maps, and animated or dark architecture diagrams. Skills only, no server. By Seaynic Labs.",
+      "author": {
+        "name": "Seaynic Labs"
+      },
+      "category": "design",
+      "homepage": "https://github.com/seayniclabs/schematic",
+      "license": "MIT",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/seayniclabs/schematic.git",
+        "sha": "c4e45a8bd83f2536ae0a3f9d854d8dfc56565beb"
+      }
     }
   ]
 }
