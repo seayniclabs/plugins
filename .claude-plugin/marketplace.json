@@ -1,0 +1,29 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "seayniclabs",
+  "owner": {
+    "name": "Seaynic Labs",
+    "url": "https://seayniclabs.com"
+  },
+  "metadata": {
+    "description": "Free, MIT-licensed bundles by Seaynic Labs: MCP tools plus skills, with a person approving every change."
+  },
+  "plugins": [
+    {
+      "name": "gauge",
+      "version": "0.2.0",
+      "description": "Your website's Umami analytics and Resend email, plus skills for weekly reports, copy, SEO and email.",
+      "author": {
+        "name": "Seaynic Labs"
+      },
+      "category": "productivity",
+      "homepage": "https://github.com/seayniclabs/gauge",
+      "license": "MIT",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/seayniclabs/gauge.git",
+        "sha": "2a4ccf45cf0fbb3b772c822bd1266524a9bd296d"
+      }
+    }
+  ]
+}
