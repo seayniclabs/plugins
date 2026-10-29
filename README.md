@@ -10,8 +10,8 @@ A Claude Code plugin marketplace for the free, MIT-licensed bundles by [Seaynic 
 
 | Plugin | What it does | Repository |
 |---|---|---|
-| `bench` | USB hardware discovery for your AI assistant: find maker boards (Arduino, ESP32, Pico), their serial ports and chips, plus skills for bring-up, serial debugging, crash decoding and safe flashing. | [seayniclabs/bench](https://github.com/seayniclabs/bench) |
-| `gauge` | Your website's Umami analytics and Resend email, plus skills for weekly reports, copy, SEO and email. | [seayniclabs/gauge](https://github.com/seayniclabs/gauge) |
+| `bench` | USB hardware discovery for your AI assistant: find maker boards (Arduino, ESP32, Pico), their serial ports and chips, plus skills for bring-up, serial debugging, crash decoding and safe flashing. By Seaynic Labs. | [seayniclabs/bench](https://github.com/seayniclabs/bench) |
+| `gauge` | Your website's Umami analytics and Resend email, plus skills for weekly reports, copy, SEO and email. By Seaynic Labs. | [seayniclabs/gauge](https://github.com/seayniclabs/gauge) |
 | `homelab` | Nginx Proxy Manager, Docker and Cloudflare DNS in your AI assistant, with approval for every change, plus skills for setup, exposing services, troubleshooting and health checks. By Seaynic Labs. | [seayniclabs/homelab-infra-mcp](https://github.com/seayniclabs/homelab-infra-mcp) |
 | `knowledge` | Search and write your self-hosted Open Notebook from your AI assistant, plus skills for meeting notes, decision records, weekly reviews and source-backed research. By Seaynic Labs. | [seayniclabs/knowledge](https://github.com/seayniclabs/knowledge) |
 | `lathe` | Local file and media tools for your AI assistant: images, PDFs, audio and video, OCR, batch runs and metadata removal, with skills for getting started, PDF output, fillable forms and web photo prep. By Seaynic Labs. | [seayniclabs/lathe](https://github.com/seayniclabs/lathe) |
@@ -22,4 +22,6 @@ A Claude Code plugin marketplace for the free, MIT-licensed bundles by [Seaynic 
 
 Every entry is pinned to an exact release commit, so a plugin only changes when we publish a new version here. Each bundle also installs without Claude Code: see its repository.
 
-Built by [Seaynic Labs](https://seayniclabs.com). MIT.
+---
+
+**Built by [Seaynic Labs](https://seayniclabs.com).** We build tools like this around a business's own systems: local-first, with a person approving every change. [See custom integrations](https://seayniclabs.com/#business).
