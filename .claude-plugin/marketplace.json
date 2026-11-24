@@ -27,7 +27,7 @@
     },
     {
       "name": "gauge",
-      "version": "0.2.1",
+      "version": "0.5.0",
       "description": "Your website's Umami analytics and Resend email, plus skills for weekly reports, copy, SEO and email.",
       "author": {
         "name": "Seaynic Labs"
@@ -38,7 +38,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/seayniclabs/gauge.git",
-        "sha": "dfd57c845319e6a5a78a3fc6c1f1ab2683f5392c"
+        "sha": "4751dfdb5ff59cc26a1560c387340bfa49838c55"
       }
     },
     {
